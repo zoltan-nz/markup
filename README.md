@@ -118,3 +118,7 @@ Contributing
 [r2h]: http://github.com/github/markup/tree/master/lib/github/commands/rest2html
 [r2hc]: http://github.com/github/markup/tree/master/lib/github/markups.rb#L13
 [1]: http://github.com/github/markup/pulls
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/szines/markup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
